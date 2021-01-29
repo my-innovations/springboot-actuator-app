@@ -18,6 +18,7 @@
 	#http://localhost:8081/actuator/dump
 	#http://localhost:8081/actuator/heapdump
 	#http://localhost:8081/actuator/info
+	#http://localhost:8761/actuator/info
 	##http://localhost:8081/actuator/configprops
 	##http://localhost:8081/actuator/trace
 	##http://localhost:8081/actuator/env
